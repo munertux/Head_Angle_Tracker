@@ -1,14 +1,14 @@
 # Head Angle Tracker
-Head angle tracker is a tool designed to detect and analyze head rotation angles in real time using computer vision with MediaPipe. The project employs image processing analysis to identify and track head orientation, providing detailed information about its tilt and rotation in degrees on the X, Y, and Z axes.
+Head Angle Tracker es una herramienta diseñada para detectar y analizar los ángulos de rotación de la cabeza en tiempo real utilizando visión por computadora con MediaPipe. El proyecto emplea análisis de procesamiento de imágenes para identificar y seguir la orientación de la cabeza, proporcionando información detallada sobre su inclinación y rotación en grados en los ejes X, Y y Z.
 
-Features:
+Características:
 
-Rotation Angle Detection: Measures head rotation angles in three dimensions.
-Real-time Tracking: Provides continuous, real-time visualization of head orientation.
-Intuitive Interface: Displays rotation angles and other relevant data directly in the graphical interface.
-Customization: Configurable to fit different applications and scenarios.
-Requirements:
+Detección de ángulos de rotación: Mide los ángulos de rotación de la cabeza en tres dimensiones.
+Seguimiento en tiempo real: Ofrece una visualización continua y en tiempo real de la orientación de la cabeza.
+Interfaz intuitiva: Muestra los ángulos de rotación y otros datos relevantes directamente en la interfaz gráfica.
+Personalización: Configurable para adaptarse a diferentes aplicaciones y escenarios.
+Requisitos:
 
--Python 3.11.6
--OpenCV
--MediaPipe
+Python 3.11.6
+OpenCV
+MediaPipe
