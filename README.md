@@ -9,8 +9,8 @@ Interfaz intuitiva: Muestra los ángulos de rotación y otros datos relevantes d
 Personalización: Configurable para adaptarse a diferentes aplicaciones y escenarios.
 Requisitos:
 
-+Python 3.11.6
-+OpenCV
-+MediaPipe
++ Python 3.11.6
++ OpenCV
++ MediaPipe
 
 
