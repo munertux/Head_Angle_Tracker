@@ -17,11 +17,7 @@ mp_face_mesh = mp.solutions.face_mesh
 pyautogui.PAUSE = 0    
 cap = cv.VideoCapture(0)
 
-def move_mouse(x, y):
-    x = width * x / 100
-    y = height * y / 100  
-    pyautogui.moveTo(x, y) 
-    
+
 if __name__ == "__main__":            
     with mp_face_mesh.FaceMesh(
         max_num_faces=1,
