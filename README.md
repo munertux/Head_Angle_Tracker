@@ -8,9 +8,9 @@ Seguimiento en tiempo real: Ofrece una visualización continua y en tiempo real 
 Interfaz intuitiva: Muestra los ángulos de rotación y otros datos relevantes directamente en la interfaz gráfica.
 Personalización: Configurable para adaptarse a diferentes aplicaciones y escenarios.
 Requisitos:
-```
-Python 3.11.6
-OpenCV
-MediaPipe
 
-```
++Python 3.11.6
++OpenCV
++MediaPipe
+
+
