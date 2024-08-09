@@ -1,4 +1,4 @@
-HeadAngleTracker is a tool designed to detect and analyze head rotation angles in real time using computer vision with MediaPipe. The project employs image processing analysis to identify and track head orientation, providing detailed information about its tilt and rotation in degrees on the X, Y, and Z axes.
+Head_Angle_Tracker is a tool designed to detect and analyze head rotation angles in real time using computer vision with MediaPipe. The project employs image processing analysis to identify and track head orientation, providing detailed information about its tilt and rotation in degrees on the X, Y, and Z axes.
 
 Features:
 
